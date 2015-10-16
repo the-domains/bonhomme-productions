@@ -1,6 +1,6 @@
 name: Bonhomme Productions
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.33031446603126824
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.9603804813232273
